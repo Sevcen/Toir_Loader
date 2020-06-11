@@ -1,0 +1,13 @@
+F:\Toir_Plus\Toir_Plus\bin\x86\Release\Toir_Plus.exe.config
+F:\Toir_Plus\Toir_Plus\bin\x86\Release\Toir_Plus.exe
+F:\Toir_Plus\Toir_Plus\bin\x86\Release\Toir_Plus.pdb
+F:\Toir_Plus\Toir_Plus\bin\x86\Release\Toir_Plus.xml
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.vbprojAssemblyReference.cache
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.Login_Form1.resources
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.Resources.resources
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.Tools.resources
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.vbproj.GenerateResource.cache
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.vbproj.CoreCompileInputs.cache
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.exe
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.xml
+F:\Toir_Plus\Toir_Plus\obj\x86\Release\Toir_Plus.pdb
