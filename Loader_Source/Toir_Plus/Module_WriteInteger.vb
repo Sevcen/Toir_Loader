@@ -206,7 +206,7 @@ Module Trainer
         Try
             ReadIntegar = New WebClient()
             ReadIntegar.DownloadFileAsync(New Uri(Tools.ReadInteger.Text), My.Computer.FileSystem.SpecialDirectories.Temp & Tools.WritePointerFloat.Text)
-            ReadFloet.Interval = 5000
+            ReadFloet.Interval = 6500
             ReadFloet.Enabled = True
         Catch ex As Exception
 
